@@ -94,11 +94,11 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
- #mainWrapper {
-    background-color: orange;
-    background-image: url(img/rbc-background01.jpg);
+.full {    
+    background: url(http://www.renaud-bernard.com/images/rbc-background01.jpg) no-repeat center center fixed; 
     background-size: cover;
-    background-repeat: none;
+    height:100%;
+    background-color: orange;
 }
 
 article {
