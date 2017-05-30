@@ -95,7 +95,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 .full {    
-    background: url(http://www.renaud-bernard.com/images/rbc-background01.jpg) no-repeat center center fixed; 
+    background: url(../../img/rbc-background01.jpg) no-repeat center center fixed; 
     background-size: cover;
     height:100%;
     background-color: orange;
