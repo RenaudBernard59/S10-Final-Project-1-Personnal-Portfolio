@@ -94,16 +94,30 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+ #mainWrapper {
+    background-color: orange;
+    background-image: url(img/rbc-background01.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
 
+article {
+    background-color: rgba(255,255,255,0.5);
+    border: solid maroon 1px;
+    border-radius: 10px;
+}
 
+article h2 {
+    color: darkred;
+}
 
+article h3 {
+    color: darkgreen;
+}
 
-
-
-
-
-
-
+ footer a {
+    color: white
+}
 
 
 
